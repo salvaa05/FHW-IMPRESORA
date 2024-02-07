@@ -2,5 +2,5 @@
 ## ÍNDICE
 * ## [Definición](Definicion_impresoras.md) 
 * ## [Características](Caracteristicas_impresora.md)
-* ## Tipos
+* ## [Tipos](Tipos_impresora.md)
 * ## [Ejemplos comerciales](Ejemplos_impresora.md)
