@@ -1,6 +1,6 @@
 # FHW-IMPRESORA
 ## ÍNDICE
-* ## Definición 
+* ## [Definición](Definición_impresora) 
 * ## Características
 * ## Tipos
 * ## Ejemplos comerciales
