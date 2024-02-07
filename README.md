@@ -3,4 +3,4 @@
 * ## [Definición](Definicion_impresoras.md) 
 * ## [Características](Caracteristicas_impresora.md)
 * ## Tipos
-* ## Ejemplos comerciales
+* ## [Ejemplos comerciales](Ejemplos_impresora.md)
