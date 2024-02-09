@@ -1,1 +1,1 @@
-![imagen](impresoraejemplo.webp)
+![imagen](/img/impresoraejemplo.webp)
