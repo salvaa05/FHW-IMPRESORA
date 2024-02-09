@@ -1,1 +1,1 @@
-![imagen](impresora_ejemplo.webp)
+![imagen](impresoraejemplo.webp)
