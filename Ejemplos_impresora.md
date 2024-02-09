@@ -1,1 +1,1 @@
-![imagen](/img/impresoraejemplo.webp)
+<img src="/img/impresoraejemplo.webp" width="400px">
