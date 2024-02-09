@@ -19,4 +19,9 @@ Nuestra vieja confiable; cuando quiere toma el papel la muy J@*¡a... es la más
 
 ### Impresosras 3D
 
-¿Figuras?¿Maquetas? Si necesitas un modelo 3D eso es cosa de esta impresora. Funcionan principalmente y más conocidas con plástico o resina; pero también existen impresoras 3D de metal. Su uso es mayormente para imprimir elementos personalizados
+<img src="/img/3DPrint.gif" alt="Laser" width="400px"/>
+
+¿Figuras?¿Maquetas? Si necesitas un modelo 3D eso es cosa de esta impresora. Funcionan principalmente y más conocidas con plástico o resina; pero también existen impresoras 3D de metal. Su uso es mayormente para imprimir elementos personalizados; las hay de muchos tamaños; pero igualmente son bastante caras de conseguir además de requerir de un mantenimiento exaustivo debido al material que utilizan. 
+
+
+[Volver Atrás](README.md)
