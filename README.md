@@ -1,4 +1,5 @@
 # FHW-IMPRESORA
+![imagen](/img/impresora.jpg)
 ## ÍNDICE
 * ## [Definición](Definicion_impresoras.md) 
 * ## [Características](Caracteristicas_impresora.md)
