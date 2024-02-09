@@ -6,3 +6,5 @@
  Cada tipo de impresora utiliza un proceso diferente para transferir la información digital al medio físico, con sus propias ventajas y desventajas en términos de calidad de impresión, velocidad,    costo operativo y uso de consumibles.
 
 * Las impresoras son dispositivos ampliamente utilizados en entornos domésticos, comerciales y empresariales para producir documentos impresos, informes, fotografías.
+
+[Volver Atrás](README.md)
