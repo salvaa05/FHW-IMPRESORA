@@ -23,3 +23,5 @@ Aquí tienes algunas características fundamentales de las impresoras:
 - **Conectividad:** Puede ser cableada (USB, Ethernet) o inalámbrica (Wi-Fi, Bluetooth).
 
 - **Funciones Multifunción:** Algunas impresoras también incluyen funciones de escaneo, copiado y/o fax.
+
+[Volver Atrás](README.md)
