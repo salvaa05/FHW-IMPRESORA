@@ -1,6 +1,6 @@
 # Ejemplo impresora
 
-**Brother MFC-L2730DW Multifunción Láser Monocromo Wifi**
+## **Brother MFC-L2730DW Multifunción Láser Monocromo Wifi**
 
 <img src="/img/impresoraejemplo.webp" width="400px">
 
