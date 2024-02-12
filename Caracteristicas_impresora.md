@@ -1,6 +1,6 @@
 # Caracteristicas
 Las impresoras son dispositivos fundamentales en entornos tanto domésticos como empresariales para convertir información digital en documentos impresos. 
-
+<img src="/img/caracterisicas.jpeg" width="400px">
 Aquí tienes algunas características fundamentales de las impresoras:
 
 - **Tecnología de Impresión:** 
