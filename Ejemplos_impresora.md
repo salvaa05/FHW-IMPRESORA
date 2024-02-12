@@ -21,3 +21,5 @@
 - Tecnología Láser
 - Functions Imprimir, Copia y escaneado, Fax
 - Clasificación de láser Producto Laser Clase 1 (IEC60825-1:2007)
+
+[Volver Atrás](README.md)
