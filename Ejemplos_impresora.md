@@ -13,3 +13,11 @@
 - PCL-6, BR-Script3 y PDF versión 1.7
 
 **Especificaciones:**
+- Tipo de impresora Monocromo
+- Pantalla Pantalla color táctil
+- Tamaño máximo del papel A4
+- Memoria 128MB
+- Procesador 600MHz
+- Tecnología Láser
+- Functions Imprimir, Copia y escaneado, Fax
+- Clasificación de láser Producto Laser Clase 1 (IEC60825-1:2007)
