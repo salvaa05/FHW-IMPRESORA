@@ -12,7 +12,7 @@
 * Natalia Barrera Aguilera
 
 # REFERENCIAS
-Chat gpt 
+[CHATGPT](https://chat.openai.com) 
 
 # LICENCIA
 <img src="/img/licencia.png" width="200px">
