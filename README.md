@@ -15,7 +15,7 @@
 Chat gpt 
 
 # LICENCIA
-
+<img src="/img/licencia.png" width="200px">
 
 
 
