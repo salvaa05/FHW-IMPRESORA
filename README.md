@@ -15,7 +15,6 @@
 Chat gpt 
 
 # LICENCIA
-![Captura desde 2024-02-14 12-56-22](https://github.com/salvaa05/FHW-IMPRESORA/assets/145538888/f0004dab-8605-4b14-bbb5-50e131e9bf26)
 
 
 
