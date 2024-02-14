@@ -13,6 +13,7 @@
 - PCL-6, BR-Script3 y PDF versión 1.7
 
 **Conectividad**
+
 Conectividad Red cableada, Red inalámbrica, USB
 
 **Copia**
