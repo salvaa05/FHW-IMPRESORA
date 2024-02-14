@@ -7,9 +7,9 @@
 * ## [Ejemplos comerciales](Ejemplos_impresora.md)
 
 # AUTORES
-* Cesár Gómez Gómez
-* Salvador Peña Barco
-* Natalia Barrera Aguilera
+* [Cesár Gómez Gómez](https://github.com/CGoGomez) 
+* [Salvador Peña Barco](https://github.com/salvaa05)
+* [Natalia Barrera Aguilera](https://github.com/Nathillas)
 
 # REFERENCIAS
 [CHATGPT](https://chat.openai.com) 
